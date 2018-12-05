@@ -40,7 +40,7 @@ def main
   |   | |   -   | |   | |    __/  |    |  ||  -__|     |  -__|   _|  _  ||   _|  _  |   _|
   |___| |_______| |___| |___|     |_______||_____|__|__|_____|__| |___._||____|_____|__|   \n\n
 #{__FILE__}: generate a Google Authenticator/Duo/Authy compatible TOTP code.\n
-By default this will generate a new TOTP secret for your current user ('#{Etc.getlogin}) and draw
+By default this will generate a new TOTP secret for your current user ('#{Etc.getlogin}') and draw
 a QR code to your terminal for scanning it with your 2FA application.
 
 Usage:
