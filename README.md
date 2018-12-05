@@ -2,6 +2,8 @@
 
 This was originally intended to be used in conjunction with Evgeny Gridasov's [OpenVPN OTP plug-in](https://github.com/evgeny-gridasov/openvpn-otp), but it could be used with other things like PAM or Wireguard.
 
+By default this will generate a new TOTP secret for your current user and draw a QR code to your terminal for scanning it with your 2FA application.
+
 It requires the following rubygems:
 - base32
 - rqrcode
