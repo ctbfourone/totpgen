@@ -1,6 +1,6 @@
 # totpgen.rb
 
-This was originally intended to be used in conjunction with Evegeny Gridasov's [OpenVPN OTP plug-in](https://github.com/evgeny-gridasov/openvpn-otp), but it could be used with other things like PAM or Wireguard.
+This was originally intended to be used in conjunction with Evgeny Gridasov's [OpenVPN OTP plug-in](https://github.com/evgeny-gridasov/openvpn-otp), but it could be used with other things like PAM or Wireguard.
 
 It requires the following rubygems:
 - base32
