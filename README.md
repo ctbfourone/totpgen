@@ -9,6 +9,9 @@ It requires the following rubygems:
 - rqrcode
 - optimist
 
+## Screenshot
+![totpgen.rb Screenshot](screenshot.png)
+
 ## Authors
 - Matt Moyer <<https://moyer.pub>>
 - Chris Brentano <<https://fourone.org/~ctb/>>
